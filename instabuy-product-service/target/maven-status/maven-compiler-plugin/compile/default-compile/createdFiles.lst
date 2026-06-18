@@ -1,0 +1,11 @@
+com\instabuy\product\entity\Product.class
+com\instabuy\product\security\AuthPrincipal.class
+com\instabuy\product\repository\ProductRepository.class
+com\instabuy\product\enums\UserRole.class
+com\instabuy\product\security\AuthTokenService.class
+com\instabuy\product\constants\AppConstants.class
+com\instabuy\product\ProductServiceApplication.class
+com\instabuy\product\controller\ProductController.class
+com\instabuy\product\exception\GlobalExceptionHandler.class
+com\instabuy\product\service\ProductService.class
+com\instabuy\product\config\WebConfig.class

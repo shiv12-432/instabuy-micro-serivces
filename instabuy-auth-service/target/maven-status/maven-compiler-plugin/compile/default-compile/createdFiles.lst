@@ -1,0 +1,16 @@
+com\instabuy\auth\exception\GlobalExceptionHandler.class
+com\instabuy\auth\service\AuthService.class
+com\instabuy\auth\enums\UserRole.class
+com\instabuy\auth\config\WebConfig.class
+com\instabuy\auth\controller\AuthController.class
+com\instabuy\auth\AuthServiceApplication.class
+com\instabuy\auth\security\AuthTokenService.class
+com\instabuy\auth\dto\AuthResponse.class
+com\instabuy\auth\service\EmailService.class
+com\instabuy\auth\security\AuthPrincipal.class
+com\instabuy\auth\service\EmailSender.class
+com\instabuy\auth\entity\User.class
+com\instabuy\auth\dto\AuthRequest.class
+com\instabuy\auth\config\DataInitializer.class
+com\instabuy\auth\repository\UserRepository.class
+com\instabuy\auth\constants\AppConstants.class

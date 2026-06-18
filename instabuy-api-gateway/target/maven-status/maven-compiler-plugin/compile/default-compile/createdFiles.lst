@@ -1,0 +1,4 @@
+com\instabuy\gateway\config\GatewayConfig.class
+com\instabuy\gateway\ApiGatewayApplication.class
+com\instabuy\gateway\controller\FallbackController.class
+com\instabuy\gateway\constants\AppConstants.class

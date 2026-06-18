@@ -1,0 +1,15 @@
+com\instabuy\inventory\dto\StockRequest.class
+com\instabuy\inventory\dto\StockResponse.class
+com\instabuy\inventory\repository\InventoryRepository.class
+com\instabuy\inventory\constants\AppConstants.class
+com\instabuy\inventory\security\ServicePrincipal.class
+com\instabuy\inventory\config\DataInitializer.class
+com\instabuy\inventory\controller\InventoryController.class
+com\instabuy\inventory\mapper\InventoryMapper.class
+com\instabuy\inventory\service\InventoryService.class
+com\instabuy\inventory\enums\StockOperationType.class
+com\instabuy\inventory\entity\InventoryItem.class
+com\instabuy\inventory\exception\GlobalExceptionHandler.class
+com\instabuy\inventory\InventoryServiceApplication.class
+com\instabuy\inventory\config\WebConfig.class
+com\instabuy\inventory\security\ServiceAuthFilter.class
